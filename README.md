@@ -1,2 +1,1 @@
-This repository contains basic Python coding problems.
-Useful for SDET.
+This repository includes basic Python coding exercises for practicing fundamental problem-solving concepts.
