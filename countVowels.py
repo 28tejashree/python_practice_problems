@@ -5,8 +5,10 @@
 def count_vowels(text):
     count = 0
     vowels = "aeiou"
+    text = text.lower()
+    
     for ch in text:
         if ch in vowels:
             count = count + 1
     return count
-print(count_vowels("Tejashree"))
+print(count_vowels("Animal"))
